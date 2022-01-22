@@ -1,5 +1,5 @@
-# LEGENDSPAM
-This is SpamBot Of @Legend_Mr_Hacker Group- https//t.me/LEGEND_USERBOT
+# PYTHONSPAM
+This is SpamBot Of @Legend_Mr_Hacker Group- https//t.me/Python_Userbot_Support
 
 <p align="center">
 <a href="https://github.com/LEGEND-OS/LEGENDSPAM" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDSPAM?style=flat&logo=github&color=success" /> </a>
